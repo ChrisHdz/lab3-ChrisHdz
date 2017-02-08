@@ -7,6 +7,6 @@ public class Lab3Exercises {
 		myFrame.setLocation(860,400);
 		myFrame.setSize(200, 200);
 		myFrame.setVisible(true);
-		//Changes made, view description
+		//Changes made, view description.
 	}
 }
